@@ -1,0 +1,35 @@
+{
+  "responseResult": {
+    "errorCode": 0,
+    "message": "Lấy data thành công!",
+    "result": {
+      "data": [
+        {
+          "Port": "1",
+          "Status": "Free",
+          "Contract": "4545dsadsa"
+        },
+        {
+          "Port": "2",
+          "Status": "Free",
+          "Contract": "4545dsadsa"
+        },
+        {
+          "Port": "3",
+          "Status": "Free",
+          "Contract": "4545dsadsa"
+        },
+        {
+          "Port": "4",
+          "Status": "Free",
+          "Contract": "4545dsadsa"
+        },
+        {
+          "Port": "5",
+          "Status": "Used",
+          "Contract": "SGH913882"
+        }
+      ]
+    }
+  }
+}

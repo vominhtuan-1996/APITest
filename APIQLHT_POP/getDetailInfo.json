@@ -1,0 +1,48 @@
+{
+  "responseResult": {
+    "errorCode": 0,
+    "message": "Lấy data thành công!",
+    "result": [
+      {
+        "key": "Tên",
+        "value": "HCMP500.001/FO"
+      },
+      {
+        "key": "Kế hoạch",
+        "value": "HCM.I.S.PP.151214.25"
+      },
+      {
+        "key": "Dung lượng",
+        "value": "0"
+      },
+      {
+        "key": "Port sử dụng",
+        "value": "0"
+      },
+      {
+        "key": "Port trống",
+        "value": "0"
+      },
+      {
+        "key": "Port bảo trì",
+        "value": "0"
+      },
+      {
+        "key": "Bộ chia 1",
+        "value": "0"
+      },
+      {
+        "key": "Bộ chia 2",
+        "value": "0"
+      },
+      {
+        "key": "Địa chỉ",
+        "value": "DD 153 DS 8-Phuong 16-Q.Go"
+      },
+      {
+        "key": "Tọa độ",
+        "value": "1.2346384 , 2.2748952487395"
+      }
+    ]
+  }
+}

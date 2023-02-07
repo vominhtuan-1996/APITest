@@ -1,0 +1,72 @@
+{
+  "responseResult": {
+    "errorCode": 0,
+    "message": "Lấy data thành công!",
+    "result": [
+      {
+        "id": 1,
+        "name": "POP",
+        "isSelected": true,
+        "data": [
+
+        ]
+      },
+      {
+        "id": 2,
+        "name": "ODF",
+        "isSelected": true,
+        "data": [
+
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Tủ cáp",
+        "isSelected": true,
+        "data": [
+
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Măng xông",
+        "isSelected": true,
+        "data": [
+
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Tập điểm",
+        "data": [
+          {
+            "ID": 43812,
+            "Name": "Normal",
+            "isSelected": true
+          },
+          {
+            "ID": 252,
+            "Name": "Drop & Go",
+            "isSelected": true
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Cáp",
+        "data": [
+          {
+            "ID": 43812,
+            "Name": "Non-Midspan",
+            "isSelected": true
+          },
+          {
+            "ID": 43812,
+            "Name": "Midspan",
+            "isSelected": true
+          }
+        ]
+      }
+    ]
+  }
+}

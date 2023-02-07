@@ -1,0 +1,43 @@
+{
+  "responseResult": {
+    "errorCode": 0,
+    "message": "Get danh sách thành công!",
+    "result": [
+      {
+        "Core": "1",
+        "E-Port": "1",
+        "E-Core": "1",
+        "Status": "Free",
+        "Purpose": ""
+      },
+      {
+        "Core": "2",
+        "E-Port": "2",
+        "E-Core": "2",
+        "Status": "Free",
+        "Purpose": ""
+      },
+      {
+        "Core": "3",
+        "E-Port": "3",
+        "E-Core": "3",
+        "Status": "Free",
+        "Purpose": ""
+      },
+      {
+        "Core": "4",
+        "E-Port": "4",
+        "E-Core": "4",
+        "Status": "Free",
+        "Purpose": ""
+      },
+      {
+        "Core": "5",
+        "E-Port": "0",
+        "E-Core": "0",
+        "Status": "Used",
+        "Purpose": ""
+      }
+    ]
+  }
+}

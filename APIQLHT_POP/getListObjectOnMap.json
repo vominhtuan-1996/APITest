@@ -1,0 +1,66 @@
+{
+  "responseResult": {
+    "errorCode": 0,
+    "message": "Get danh sách thành công!",
+    "result": {
+      "deviceInfo": [
+        {
+          "ID": "122502",
+          "Name": "HCMP500.001/FO",
+          "XCoordinate": "10.76972475621192",
+          "YCoordinate": "106.74658165024852",
+          "Type": "",
+          "portFree": 0,
+          "portTotal": 0,
+          "portused": 0,
+          "spliter": 0
+        },
+        {
+          "ID": "122512",
+          "Name": "HCMU00023.002/T",
+          "XCoordinate": "10.770346607292145",
+          "YCoordinate": "106.74595401333903",
+          "Type": "",
+          "portFree": 0,
+          "portTotal": 0,
+          "portused": 0,
+          "spliter": 0
+        }
+      ],
+      "lineCableInfo": [
+        {
+          "cableId": "169712",
+          "Name": "HCMU00023.001/D",
+          "Type": "",
+          "Capacity": "1",
+          "Length": "112.5",
+          "Color": "Cam",
+          "LatLngTube": [
+            {
+              "XCoordinate": "10.767943943837134",
+              "YCoordinate": "106.74593739509552"
+            },
+            {
+              "XCoordinate": "10.767755107558097",
+              "YCoordinate": "106.74578565420995"
+            },
+            {
+              "XCoordinate": "10.767916723695063",
+              "YCoordinate": "106.74556954032472"
+            }
+          ],
+          "LatLng": [
+            {
+              "XCoordinate": "10.76972475621192",
+              "YCoordinate": "106.74658165024852"
+            },
+            {
+              "XCoordinate": "10.770346607292145",
+              "YCoordinate": "106.74595401333903"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

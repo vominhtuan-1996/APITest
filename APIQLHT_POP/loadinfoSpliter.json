@@ -1,0 +1,48 @@
+{
+  "responseResult": {
+    "errorCode": 0,
+    "message": "Lấy data thành công!",
+    "result": [
+      {
+        "header": {
+          "key": "Tên bộ chia 1",
+          "value": "HCMP600.001/HO.01"
+        },
+        "data": [
+          {
+            "key": "Dung lượng",
+            "value": "8"
+          },
+          {
+            "key": "Công nghệ",
+            "value": "G"
+          },
+          {
+            "key": "Thông tin uplink",
+            "value": "HCMP600.701/MO/5=>HCMP600.0024/CO/1=>HCMP600.010/MO/1=>Trung Gian/1=>HCMP600.010/MO/1=>HCMP600.0029/CO/1=>HCMP600.007/MO/1"
+          }
+        ]
+      },
+      {
+        "header": {
+          "key": "Tên bộ chia 2",
+          "value": "HCMP600.001/HO.01"
+        },
+        "data": [
+          {
+            "key": "Dung lượng",
+            "value": "8"
+          },
+          {
+            "key": "Công nghệ",
+            "value": "G"
+          },
+          {
+            "key": "Thông tin uplink",
+            "value": "HCMP600.701/MO/5=>HCMP600.0024/CO/1=>HCMP600.010/MO/1=>Trung Gian/1=>HCMP600.010/MO/1=>HCMP600.0029/CO/1=>HCMP600.007/MO/1"
+          }
+        ]
+      }
+    ]
+  }
+}
