@@ -7,37 +7,30 @@
         "id": 1,
         "name": "POP",
         "isSelected": true,
-        "data": [
-
-        ]
+        "data": []
       },
       {
         "id": 2,
         "name": "ODF",
         "isSelected": true,
-        "data": [
-
-        ]
+        "data": []
       },
       {
         "id": 3,
         "name": "Tủ cáp",
         "isSelected": true,
-        "data": [
-
-        ]
+        "data": []
       },
       {
         "id": 4,
         "name": "Măng xông",
         "isSelected": true,
-        "data": [
-
-        ]
+        "data": []
       },
       {
         "id": 5,
         "name": "Tập điểm",
+        "isSelected": true,
         "data": [
           {
             "ID": 43812,
@@ -54,6 +47,7 @@
       {
         "id": 6,
         "name": "Cáp",
+        "isSelected": true,
         "data": [
           {
             "ID": 43812,
