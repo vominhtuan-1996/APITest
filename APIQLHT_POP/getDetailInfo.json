@@ -33,7 +33,15 @@
       },
       {
         "key": "Bộ chia 2",
-        "value": "0"
+        "value": "1"
+      },
+      {
+        "key": "Bộ chia 3",
+        "value": "2"
+      },
+      {
+        "key": "Bộ chia 24",
+        "value": "3"
       },
       {
         "key": "Địa chỉ",
