@@ -1,0 +1,29 @@
+{
+  "responseResult": {
+    "errorCode": 0,
+    "message": "Lấy data thành công!",
+    "result": [
+      {
+        "Banner": {
+          "listObjectBanner": [
+            {
+              "linkImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZISQ75krRf3Ziv6l_SOuvYY7n7UZgvJ0PBb7CkEQXQ9j4_BZy6HEGLQ84KSnEVhJcAaE&usqp=CAU"
+            },
+            {
+              "linkImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnmfTh2iutFiH2r9hHA7VE_so6LTLxt7RWOhho64MkBzpbr_ZjyJNS5z4H0kthpu7T0Qc&usqp=CAU"
+            },
+            {
+              "linkImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAdaykSDSis6m_0r-VHB8kOGhZEKu3kuKaQ&usqp=CAU"
+            },
+            {
+              "linkImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlIebpLD8TAIOSB7eeGMcVIgZGdQIhHZYkg&usqp=CAU"
+            },
+            {
+              "linkImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugQm9KFOySRr6w5s5ZXFurvDTsodq1oADzQ&usqp=CAU"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
