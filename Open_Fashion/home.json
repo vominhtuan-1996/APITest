@@ -48,29 +48,24 @@
         ],
         "cartItem": [
           {
-            "linkImage": "String",
-            "Description": "String",
-            "Price": 0
+            "linkImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZISQ75krRf3Ziv6l_SOuvYY7n7UZgvJ0PBb7CkEQXQ9j4_BZy6HEGLQ84KSnEVhJcAaE&usqp=CAU",
+            "Description": "21WN reversible angora cardigan",
+            "Price": 120
           },
           {
-            "linkImage": "String",
-            "Description": "String",
-            "Price": 10
+            "linkImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnmfTh2iutFiH2r9hHA7VE_so6LTLxt7RWOhho64MkBzpbr_ZjyJNS5z4H0kthpu7T0Qc&usqp=CAU",
+            "Description": "21WN reversible angora cardigan",
+            "Price": 120
           },
           {
-            "linkImage": "String",
-            "Description": "String",
-            "Price": 20
+            "linkImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPAdaykSDSis6m_0r-VHB8kOGhZEKu3kuKaQ&usqp=CAU",
+            "Description": "21WN reversible angora cardigan",
+            "Price": 120
           },
           {
-            "linkImage": "String",
-            "Description": "String",
-            "Price": 30
-          },
-          {
-            "linkImage": "String",
-            "Description": "String",
-            "Price": 40
+            "linkImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqlIebpLD8TAIOSB7eeGMcVIgZGdQIhHZYkg&usqp=CAU",
+            "Description": "Oblong bag",
+            "Price": 120
           }
         ]
       }
