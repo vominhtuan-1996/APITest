@@ -1,0 +1,172 @@
+{
+  "responseResult": {
+    "errorCode": 0,
+    "message": "Get danh sách thành công!",
+    "result": {
+      "categories": [
+        {
+          "title": "Bảo trì",
+          "isSelected": true
+        },
+        {
+          "title": "Khảo sát",
+          "isSelected": false
+        },
+        {
+          "title": "Nghiệm thu",
+          "isSelected": false
+        },
+        {
+          "title": "Chấm",
+          "isSelected": false
+        },
+        {
+          "title": "Đánh sao",
+          "isSelected": false
+        }
+      ],
+      "menus": [
+        {
+          "parentMenuTitle": "Bảo trì",
+          "childMenus": [
+            {
+              "iconChildMenu": "ic_menu_maintenance",
+              "titleChildMenu": "Bảo trì POP",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_maintenance",
+              "titleChildMenu": "Bảo trì ngoại vi",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_maintenance",
+              "titleChildMenu": "Bảo trì đài trạm",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_maintenance",
+              "titleChildMenu": "Bảo trì Component",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_maintenance",
+              "titleChildMenu": "Bảo trì ngoại vi XLA",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_maintenance",
+              "titleChildMenu": "Bảo trì thiết bị NOC",
+              "routeName": ""
+            }
+          ]
+        },
+        {
+          "parentMenuTitle": "Khảo sát",
+          "childMenus": [
+            {
+              "iconChildMenu": "ic_menu_survey",
+              "titleChildMenu": "Khảo sát ngoại vi",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_survey",
+              "titleChildMenu": "Khảo sát ngoại vi XLA",
+              "routeName": ""
+            }
+          ]
+        },
+        {
+          "parentMenuTitle": "Nghiệm thu",
+          "childMenus": [
+            {
+              "iconChildMenu": "ic_menu_acceptance",
+              "titleChildMenu": "Nghiệm thụ tập điểm",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_acceptance",
+              "titleChildMenu": "Nghiệm thu cáp",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_acceptance",
+              "titleChildMenu": "Nghiệm thu hàn nối",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_acceptance",
+              "titleChildMenu": "Nghiệm thu vật tư",
+              "routeName": ""
+            }
+          ]
+        },
+        {
+          "parentMenuTitle": "Chấm",
+          "childMenus": [
+            {
+              "iconChildMenu": "ic_menu_mark",
+              "titleChildMenu": "Chấm trụ điện",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_mark",
+              "titleChildMenu": "Lịch sử chấm trụ điện",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_mark",
+              "titleChildMenu": "Chấm tập điểm",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_mark",
+              "titleChildMenu": "Lịch sử Chấm tập điểm",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_mark",
+              "titleChildMenu": "Chấm đại lý",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_mark",
+              "titleChildMenu": "Tra cứu đại lý",
+              "routeName": ""
+            }
+          ]
+        },
+        {
+          "parentMenuTitle": "Đánh sao",
+          "childMenus": [
+            {
+              "iconChildMenu": "ic_menu_rating_star",
+              "titleChildMenu": "Đánh sao POP Outdoor",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_rating_star",
+              "titleChildMenu": "Đánh sao POP QSV Outdoor",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_rating_star",
+              "titleChildMenu": "TitileName",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_rating_star",
+              "titleChildMenu": "Đánh sao POP",
+              "routeName": ""
+            },
+            {
+              "iconChildMenu": "ic_menu_rating_star",
+              "titleChildMenu": "Đánh sao POP KTV",
+              "routeName": ""
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
