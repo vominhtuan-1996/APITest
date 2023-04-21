@@ -158,26 +158,6 @@
               "iconChildMenu": "ic_menu_rating_star",
               "titleChildMenu": "Đánh sao POP KTV",
               "routeName": ""
-            },
-            {
-              "iconChildMenu": "ic_menu_rating_star",
-              "titleChildMenu": "Đánh sao POP Outdoor",
-              "routeName": ""
-            },
-            {
-              "iconChildMenu": "ic_menu_rating_star",
-              "titleChildMenu": "Đánh sao POP QSV Outdoor",
-              "routeName": ""
-            },
-            {
-              "iconChildMenu": "ic_menu_rating_star",
-              "titleChildMenu": "Đánh sao POP",
-              "routeName": ""
-            },
-            {
-              "iconChildMenu": "ic_menu_rating_star",
-              "titleChildMenu": "Đánh sao POP KTV",
-              "routeName": ""
             }
           ]
         }
