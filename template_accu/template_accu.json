@@ -1,0 +1,144 @@
+{
+  "ResponseResult": {
+    "ErrorCode": 0,
+    "Message": "Success",
+    "Result": {
+      "checklist_id": "178",
+      "code": "HCMP472-13072022-DK-01",
+      "type_job": "BTPOP",
+      "type_pop": "MPOP",
+      "device_id": "",
+      "step_num": 2,
+      "platform": "IOS",
+      "step_data": {
+        "id": "1",
+        "step_title": "Đo kiểm Accu",
+        "criteria_parent": [
+          {
+            "id": "11",
+            "parent_title": "Thông tin chung",
+            "criteria_child": [
+              {
+                "id": "111",
+                "title": "Thực hiện đo kiểm accu",
+                "has_image": 0,
+                "description": "",
+                "type_view": "accu_swicth",
+                "note": "",
+                "evaluation": "",
+                "images": [
+                  {
+                    "link": "",
+                    "title": "img_1"
+                  }
+                ],
+                "is_maintenance": 0,
+                "display_history_web": 0,
+                "has_note": 0,
+                "value": 0
+              },
+              {
+                "id": "113",
+                "title": "Số lượng tổ Accu",
+                "has_image": 0,
+                "description": "",
+                "type_view": "accu_number",
+                "type": 2,
+                "note": "",
+                "evaluation": "",
+                "images": [
+                  {
+                    "link": "",
+                    "title": "img_1"
+                  }
+                ],
+                "is_maintenance": 0,
+                "display_history_web": 0,
+                "value": 0,
+                "has_note": 0
+              },
+              {
+                "id": "114",
+                "title": "Chủng loại Accu",
+                "has_image": 0,
+                "description": "",
+                "type_view": "accu_selected",
+                "note": "",
+                "evaluation": "",
+                "images": [
+                  {
+                    "link": "",
+                    "title": "img_1"
+                  }
+                ],
+                "is_maintenance": 0,
+                "display_history_web": 0,
+                "data": [
+                  {
+                    "id": "1141",
+                    "title": "Vision CT12-100X",
+                    "value": 1
+                  },
+                  {
+                    "id": "1142",
+                    "title": "Phoenix TS12100",
+                    "value": 0
+                  }
+                ],
+                "has_note": 0,
+                "typeName": "Number"
+              }
+            ]
+          }
+        ],
+        "current_step": 1,
+        "version": 3,
+        "version_template": 2,
+        "maintenance_step_num": 1
+      },
+      "status": "",
+      "status_num": 2,
+      "limit_maintenance": 3,
+      "version_template": 2,
+      "complete_step": {
+        "id": "",
+        "step_title": "Hoàn tất bảo trì",
+        "current_step": "",
+        "criteria_parent": [
+          {
+            "id": "sa5gi3ai1",
+            "criteria_child": [
+              {
+                "id": "qhb93s6f7",
+                "description": "",
+                "note": "",
+                "type": "",
+                "title": "Ghi chú (nếu có)",
+                "value": "",
+                "evaluation": "",
+                "is_maintenance": "0",
+                "images": [
+                  {
+                    "link": "",
+                    "title": "img_1"
+                  }
+                ],
+                "has_image": "0",
+                "text_length": "300",
+                "display_history_web": 0,
+                "required": "",
+                "type_view": "text"
+              }
+            ],
+            "parent_title": "Hoàn tất bảo trì"
+          }
+        ]
+      },
+      "create_by": "tester",
+      "update_by": "",
+      "step": "1",
+      "version": 3,
+      "has_info": 1
+    }
+  }
+}
