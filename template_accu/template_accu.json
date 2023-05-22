@@ -23,7 +23,7 @@
                 "title": "Thực hiện đo kiểm accu",
                 "has_image": 0,
                 "description": "",
-                "type_view": "accu_swicth",
+                "type_view": "accu_switch",
                 "note": "",
                 "evaluation": "",
                 "images": [
@@ -62,7 +62,7 @@
                 "title": "Chủng loại Accu",
                 "has_image": 0,
                 "description": "",
-                "type_view": "accu_selected",
+                "type_view": "accu_select",
                 "note": "",
                 "evaluation": "",
                 "images": [
