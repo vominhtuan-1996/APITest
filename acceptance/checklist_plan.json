@@ -1,0 +1,100 @@
+{
+  "status": 0,
+  "message": "Demo",
+  "errorData": null,
+  "data": {
+    "isEndPage": false,
+    "currentPage": 1,
+    "pageSize": 20,
+    "data": [
+      {
+        "planCode": "HCMI.PP.099000",
+        "planName": "Test 1",
+        "unit": "TTC",
+        "issuer": "Tester123",
+        "dateIssued": "23/10/2023",
+        "status": "2",
+        "statusName": "Đã ban hành lần x",
+        "location": "10.759459, 106.737304",
+        "fileDesign": "https://raw.githubusercontent.com/vominhtuan-1996/APITest/main/acceptance/document.pdf"
+      },
+      {
+        "planCode": "HCMI.PP.099000",
+        "planName": "Test 2",
+        "unit": "TTC",
+        "issuer": "Tester123",
+        "dateIssued": "23/10/2023",
+        "status": "3",
+        "statusName": "Thi công",
+        "location": "10.759459, 106.737304",
+        "fileDesign": "https://raw.githubusercontent.com/vominhtuan-1996/APITest/main/acceptance/document.pdf"
+      },
+      {
+        "planCode": "HCMI.PP.099000",
+        "planName": "Test 1",
+        "unit": "TTC",
+        "issuer": "Tester123",
+        "dateIssued": "23/10/2023",
+        "status": "4",
+        "statusName": "Đang nghiệm thu",
+        "location": "10.759459, 106.737304",
+        "fileDesign": "https://raw.githubusercontent.com/vominhtuan-1996/APITest/main/acceptance/document.pdf"
+      },
+      {
+        "planCode": "HCMI.PP.099000",
+        "planName": "Test 1",
+        "unit": "TTC",
+        "issuer": "Tester123",
+        "dateIssued": "23/10/2023",
+        "status": "5",
+        "statusName": "Đã nghiệm thu",
+        "location": "10.759459, 106.737304",
+        "fileDesign": "https://raw.githubusercontent.com/vominhtuan-1996/APITest/main/acceptance/document.pdf"
+      },
+      {
+        "planCode": "HCMI.PP.099000",
+        "planName": "Test 1",
+        "unit": "TTC",
+        "issuer": "Tester123",
+        "dateIssued": "23/10/2023",
+        "status": "6",
+        "statusName": "Đề nghị hoàn ứng",
+        "location": "10.759459, 106.737304",
+        "fileDesign": "https://raw.githubusercontent.com/vominhtuan-1996/APITest/main/acceptance/document.pdf"
+      },
+      {
+        "planCode": "HCMI.PP.099000",
+        "planName": "Test 1",
+        "unit": "TTC",
+        "issuer": "Tester123",
+        "dateIssued": "23/10/2023",
+        "status": "7",
+        "statusName": "Hoàn công",
+        "location": "10.759459, 106.737304",
+        "fileDesign": "https://raw.githubusercontent.com/vominhtuan-1996/APITest/main/acceptance/document.pdf"
+      },
+      {
+        "planCode": "HCMI.PP.099000",
+        "planName": "Test 1",
+        "unit": "TTC",
+        "issuer": "Tester123",
+        "dateIssued": "23/10/2023",
+        "status": "2",
+        "statusName": "Đã ban hành lần x",
+        "location": "10.759459, 106.737304",
+        "fileDesign": "https://raw.githubusercontent.com/vominhtuan-1996/APITest/main/acceptance/document.pdf"
+      },
+      {
+        "planCode": "HCMI.PP.099000",
+        "planName": "Test 1",
+        "unit": "TTC",
+        "issuer": "Tester123",
+        "dateIssued": "23/10/2023",
+        "status": "2",
+        "statusName": "Đã ban hành lần x",
+        "location": "10.759459, 106.737304",
+        "fileDesign": "https://raw.githubusercontent.com/vominhtuan-1996/APITest/main/acceptance/document.pdf"
+      }
+    ]
+  }
+}
