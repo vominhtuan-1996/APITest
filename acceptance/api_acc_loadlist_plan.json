@@ -1,0 +1,49 @@
+{
+  "status": 0,
+  "message": "Demo",
+  "errorData": null,
+  "data": [
+    {
+      "name": "Tất cả",
+      "code": "1",
+      "index": 0,
+      "selected": true
+    },
+    {
+      "name": "Đã ban hành lần x",
+      "code": "2",
+      "index": 1,
+      "selected": false
+    },
+    {
+      "name": "Thi công",
+      "code": "3",
+      "index": 2,
+      "selected": false
+    },
+    {
+      "name": "Đang nghiệm thu",
+      "code": "4",
+      "index": 3,
+      "selected": false
+    },
+    {
+      "name": "Đã nghiệm thu",
+      "code": "5",
+      "index": 4,
+      "selected": false
+    },
+    {
+      "name": "Đề nghị hoàn ứng",
+      "code": "6",
+      "index": 5,
+      "selected": false
+    },
+    {
+      "name": "Hoàn công",
+      "code": "7",
+      "index": 6,
+      "selected": false
+    }
+  ]
+}
