@@ -1,0 +1,67 @@
+{
+  "status": 0,
+  "message": "Demo",
+  "errorData": null,
+  "data": [
+    {
+      "name": "Tất cả",
+      "code": "1",
+      "index": 0,
+      "selected": true
+    },
+    {
+      "name": "Chưa cập nhật",
+      "code": "2",
+      "index": 1,
+      "selected": false
+    },
+    {
+      "name": "Đang cập nhật",
+      "code": "3",
+      "index": 2,
+      "selected": false
+    },
+    {
+      "name": "Chờ upload",
+      "code": "4",
+      "index": 3,
+      "selected": false
+    },
+    {
+      "name": "Đối tác xác nhận",
+      "code": "5",
+      "index": 4,
+      "selected": false
+    },
+    {
+      "name": "INF cập nhật",
+      "code": "6",
+      "index": 5,
+      "selected": false
+    },
+    {
+      "name": "INF xác nhận",
+      "code": "7",
+      "index": 6,
+      "selected": false
+    },
+    {
+      "name": "FTQ cập nhật",
+      "code": "8",
+      "index": 7,
+      "selected": false
+    },
+    {
+      "name": "FTQ xác nhận",
+      "code": "9",
+      "index": 8,
+      "selected": false
+    },
+    {
+      "name": "Không thi công",
+      "code": "10",
+      "index": 9,
+      "selected": false
+    }
+  ]
+}
