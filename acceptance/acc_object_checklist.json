@@ -1,0 +1,169 @@
+{
+  "status": 0,
+  "message": "Demo",
+  "errorData": null,
+  "data": [
+    {
+      "objName": "HCMIP999.001/MO",
+      "status": 1,
+      "statusName": "Chưa cập nhật",
+      "noConstruction": 0,
+      "aiCheck": 0,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.002/TO",
+      "status": 1,
+      "statusName": "Đã cập nhật",
+      "noConstruction": 0,
+      "aiCheck": 0,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.003/HB",
+      "status": 1,
+      "statusName": "Chưa liên kết",
+      "noConstruction": 1,
+      "aiCheck": 1,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.003/TO",
+      "status": 1,
+      "statusName": "INF cập  nhật",
+      "noConstruction": 0,
+      "aiCheck": 1,
+      "link": "Đã liên kết",
+      "portStatus": 1
+    },
+    {
+      "objName": "HCMIP999.002/HO",
+      "status": 1,
+      "statusName": "INF xác nhận",
+      "noConstruction": 0,
+      "aiCheck": 1,
+      "link": "Đã liên kết",
+      "portStatus": 1
+    },
+    {
+      "objName": "HCMIP999.002/HO",
+      "status": 1,
+      "statusName": "Không thi công",
+      "noConstruction": 1,
+      "aiCheck": 0,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.001/MO",
+      "status": 1,
+      "statusName": "Chưa cập nhật",
+      "noConstruction": 0,
+      "aiCheck": 0,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.002/TO",
+      "status": 1,
+      "statusName": "Đã cập nhật",
+      "noConstruction": 0,
+      "aiCheck": 0,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.003/HB",
+      "status": 1,
+      "statusName": "Chưa liên kết",
+      "noConstruction": 1,
+      "aiCheck": 1,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.003/TO",
+      "status": 1,
+      "statusName": "INF cập  nhật",
+      "noConstruction": 0,
+      "aiCheck": 1,
+      "link": "Đã liên kết",
+      "portStatus": 1
+    },
+    {
+      "objName": "HCMIP999.002/HO",
+      "status": 1,
+      "statusName": "INF xác nhận",
+      "noConstruction": 0,
+      "aiCheck": 1,
+      "link": "Đã liên kết",
+      "portStatus": 1
+    },
+    {
+      "objName": "HCMIP999.002/HO",
+      "status": 1,
+      "statusName": "Không thi công",
+      "noConstruction": 1,
+      "aiCheck": 0,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.001/MO",
+      "status": 1,
+      "statusName": "Chưa cập nhật",
+      "noConstruction": 0,
+      "aiCheck": 0,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.002/TO",
+      "status": 1,
+      "statusName": "Đã cập nhật",
+      "noConstruction": 0,
+      "aiCheck": 0,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.003/HB",
+      "status": 1,
+      "statusName": "Chưa liên kết",
+      "noConstruction": 1,
+      "aiCheck": 1,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    },
+    {
+      "objName": "HCMIP999.003/TO",
+      "status": 1,
+      "statusName": "INF cập  nhật",
+      "noConstruction": 0,
+      "aiCheck": 1,
+      "link": "Đã liên kết",
+      "portStatus": 1
+    },
+    {
+      "objName": "HCMIP999.002/HO",
+      "status": 1,
+      "statusName": "INF xác nhận",
+      "noConstruction": 0,
+      "aiCheck": 1,
+      "link": "Đã liên kết",
+      "portStatus": 1
+    },
+    {
+      "objName": "HCMIP999.002/HO",
+      "status": 1,
+      "statusName": "Không thi công",
+      "noConstruction": 1,
+      "aiCheck": 0,
+      "link": "Đã liên kết",
+      "portStatus": 0
+    }
+  ]
+}
