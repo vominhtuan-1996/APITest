@@ -1,0 +1,44 @@
+{
+  "status": 0,
+  "message": "Demo",
+  "errorData": null,
+  "data": {
+    "objName": "HCMIP999.001/HO",
+    "wattage": "11.0",
+    "location": "10.16451561,106.154856454",
+    "numJointWeld": "1000",
+    "implementationStaff": "tester",
+    "supervisoryStaff": "tester1",
+    "acceptanceStaff": "tester2",
+    "typeObject": "113123",
+    "typeObjectName": "Hộp nhựa tập điểm quang 16 - 20020562",
+    "note": "nhập ghi chú",
+    "images": [
+      {
+        "title": "Bên ngoài 1",
+        "link": "dTLAFn5DauVgSqKL"
+      },
+      {
+        "title": "Bên ngoài 2",
+        "link": "dTLAFn5DauVgSqKL"
+      },
+      {
+        "title": "Bên ngoài 3",
+        "link": "dTLAFn5DauVgSqKL"
+      },
+      {
+        "title": "Bên ngoài 4",
+        "link": "dTLAFn5DauVgSqKL"
+      },
+      {
+        "title": "Bên ngoài 5",
+        "link": "dTLAFn5DauVgSqKL"
+      }
+    ],
+    "confirm": "0",
+    "quality": "0",
+    "infConfirm": "0",
+    "ftqConfirm": "0",
+    "portStatus": "0"
+  }
+}
