@@ -1,0 +1,51 @@
+{
+  "status": 0,
+  "message": "Demo",
+  "errorData": null,
+  "data": [
+    {
+      "objName": "HCMIP999.001/HO",
+      "location": "10.766542, 106.746038"
+    },
+    {
+      "objName": "HCMIP999.002/HO",
+      "location": "10.769335, 106.740502"
+    },
+    {
+      "objName": "HCMIP999.003/HO",
+      "location": "10.766436, 106.741478"
+    },
+    {
+      "objName": "HCMIP999.004/HO",
+      "location": "10.763665, 106.736694"
+    },
+    {
+      "objName": "HCMIP999.005/HO",
+      "location": "10.755726, 106.755197"
+    },
+    {
+      "objName": "HCMIP999.006/HO",
+      "location": "10.751815, 106.749768"
+    },
+    {
+      "objName": "HCMIP999.007/HO",
+      "location": "10.770069, 106.761284"
+    },
+    {
+      "objName": "HCMIP999.008/HO",
+      "location": "10.780157, 106.726223"
+    },
+    {
+      "objName": "HCMIP999.009/HO",
+      "location": "10.779124, 106.719839"
+    },
+    {
+      "objName": "HCMIP999.0011/HO",
+      "location": "10.778160, 106.716923"
+    },
+    {
+      "objName": "HCMIP999.0012/HO",
+      "location": "10.775316, 106.718624"
+    }
+  ]
+}
