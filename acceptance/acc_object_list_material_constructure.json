@@ -1,0 +1,65 @@
+{
+  "status": 0,
+  "message": "Demo",
+  "errorData": null,
+  "data": [
+    {
+      "planCode": "HCMI.PP.099000",
+      "status": "",
+      "search": "",
+      "pageNum": 1,
+      "pageSize": 20,
+      "isEndPage": false,
+      "data": [
+        {
+          "codeSupplies": "20020562",
+          "nameSupplies": "Hộp tập điểm quang 1-16",
+          "numSupplies": "0",
+          "objName": "HCMIP999.001/HO"
+        },
+        {
+          "codeSupplies": "200205621",
+          "nameSupplies": "Bộ chia 1:8",
+          "numSupplies": "0",
+          "objName": "HCMIP999.001/HO"
+        },
+        {
+          "codeSupplies": "200205623",
+          "nameSupplies": "Hộp casset nhựa (135x83x50)",
+          "numSupplies": "1",
+          "objName": "HCMIP999.001/HO"
+        },
+        {
+          "codeSupplies": "2002056232",
+          "nameSupplies": "Đầu nối quan SC/APC",
+          "numSupplies": "2",
+          "objName": "HCMIP999.001/HO"
+        },
+        {
+          "codeSupplies": "200205623211",
+          "nameSupplies": "Dây đai Inox",
+          "numSupplies": "7",
+          "objName": "HCMIP999.001/HO"
+        },
+        {
+          "codeSupplies": "20020562321112",
+          "nameSupplies": "Other",
+          "numSupplies": "3",
+          "objName": "HCMIP999.001/HO"
+        },
+        {
+          "codeSupplies": "200205621",
+          "nameSupplies": "Other",
+          "numSupplies": "1000",
+          "objName": "HCMIP999.001/HO"
+        },
+        {
+          "codeSupplies": "200205621",
+          "nameSupplies": "Other",
+          "numSupplies": "111",
+          "objName": "HCMIP999.001/HO"
+        }
+      ]
+    }
+  ]
+}
