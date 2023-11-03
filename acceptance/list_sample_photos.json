@@ -1,0 +1,27 @@
+{
+  "status": 0,
+  "message": "Demo",
+  "errorData": null,
+  "data": [
+    {
+      "angle": "1",
+      "link": "dhaksdhashdkasdka"
+    },
+    {
+      "angle": "2",
+      "link": "dhaksdhashdkasdka"
+    },
+    {
+      "angle": "3",
+      "link": "dhaksdhashdkasdka"
+    },
+    {
+      "angle": "4",
+      "link": "dhaksdhashdkasdka"
+    },
+    {
+      "angle": "5",
+      "link": "dhaksdhashdkasdka"
+    }
+  ]
+}
